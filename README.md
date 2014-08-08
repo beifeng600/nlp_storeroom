@@ -16,3 +16,4 @@ NLP的一些公开资料，有些是别人原始分享的，有些是处理了�
 	--corpus/
 		---bilingual parallel corpus
 			外国人名foreignNames_list_39687.txt, 	// 外国人名，中英对照的，共39687条
+			1500en_zh.txt，		// 英汉双语句对齐语料库，1500句对
