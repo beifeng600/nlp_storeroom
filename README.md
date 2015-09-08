@@ -38,4 +38,6 @@ NLP的一些公开资料，有些是别人原始分享的，有些是处理了�
 	--tools/
 		---分句
 			CutFile_ZH.py,    //中文分句工具，python
+		---去除UTF-8开头的BOM
+			Remove_BOM_Dir.py,	//去除UTF-8文件，开头的BOM
 		
